@@ -17,6 +17,7 @@ or
 # Mojaloop Overview  
 
 [![Join the chat at https://gitter.im/mojaloop/mojaloop](https://badges.gitter.im/mojaloop/mojaloop.svg)](https://gitter.im/mojaloop/mojaloop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkjw000%2Fmojaloop.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkjw000%2Fmojaloop?ref=badge_shield)
 Digital and mobile technologies make it possible to reach new customers in developing markets with innovative, low-cost financial services. The lack of a shared platform, though, means that financial providers have to build everything on their own. This raises costs and keeps the digital financial industry from growing and innovating as fast as it could.  
 
 Mojaloop is open-source software for creating digital payments platforms that connect all customers, merchants, banks, and other financial providers in a country's economy. Rather than a financial product or application in itself, Mojaloop establishes a blueprint for technology that bridges all the financial products and applications in any given market.  
@@ -54,3 +55,7 @@ The [Interledger Protocol Suite](https://interledger.org/) (ILP) is an open and 
 Repositories for Docker containers, NPM packages, etc. are provided by JFrog
 
 ![Artifactory](https://github.com/mojaloop/docs/blob/master/Wiki/Powered-by-artifactory_02.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkjw000%2Fmojaloop.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkjw000%2Fmojaloop?ref=badge_large)
